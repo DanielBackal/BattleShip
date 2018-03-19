@@ -1,0 +1,12 @@
+#Battleship File
+
+class Player1():
+  EBoard = []
+  PBoard = []
+  target = input('Select your target: ')
+  def miss(x):
+    pass
+  def hit(x):
+    pass
+class Player2():
+  
